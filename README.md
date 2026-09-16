@@ -15,13 +15,13 @@
   <a href="https://github.com/VarshithaNR">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://linkedin.com/in/varshitha-n-r-751682267">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO-URL.com">
-    <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://leetcode.com/u/tMGmeA2bXM/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:rakshuvarshu216@gmail.com">
     <img src="https://img.shields.io/badge/Email-6A11CB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -181,13 +181,13 @@ Tech: PHP, MySQL, HTML, CSS, JavaScript
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://linkedin.com/in/varshitha-n-r-751682267">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://YOUR-PORTFOLIO-URL.com">
-    <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://leetcode.com/u/tMGmeA2bXM/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:rakshuvarshu216@gmail.com">
     <img src="https://img.shields.io/badge/Email-6A11CB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
